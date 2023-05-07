@@ -24,9 +24,3 @@ const scrollSpy = document.querySelectorAll(".scrollspy");
 M.ScrollSpy.init(scrollSpy, {
   scrollOffset: 50,
 });
-
-// toast
-const toast = document.querySelectorAll(".btn");
-M.toast({
-  html: "Sukses!",
-});
