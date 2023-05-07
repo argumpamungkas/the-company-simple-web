@@ -1,6 +1,6 @@
 
-## THE WEBSITE :
-[WEBSITE](https://the-company-web.argumpamungkas.repl.co/)
+## WEBSITE :
+This is the website -> [TheCompany](https://the-company-web.argumpamungkas.repl.co/)
 
 <p align="center">
   <a href="http://materializecss.com/">
